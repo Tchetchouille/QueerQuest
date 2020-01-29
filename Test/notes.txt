@@ -1,0 +1,12 @@
+Up = W
+Down = S
+Left = A
+Right = D
+X = SPACE
+Carre = E
+Triangle = Q
+Rond = F
+
+créer une alliée qui devient TERF par la suite.
+
+Les rencontres se déclenchent en interragissant avec les PNJs. Certain.e sont déjà woke. Une fois le combat terminé, changer le sprite pour montrer que woke.

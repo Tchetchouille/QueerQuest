@@ -1,0 +1,38 @@
+===TO DO LIST===
+
+---PROTOTYPE---
+
+OVERWORLD
+    - Avoir le bon sprite
+    - Animation wobble
+    - Physique (bloquer mur etc)
+    - Interactions avec objets
+    - Ouvrir menu
+    - Créer zone de prototype
+    - Avoir une musique de base
+
+COMBAT
+    - Menu de choix d'action
+    - Designer démons de base
+    - Déterminer particularité du système
+    - Faire fonctionner cette particularité
+    - Avoir une musique de base
+
+MENUS
+    - Menu central
+        - Designer Genderbread
+        - Alligner cercles sur gendrebread
+        - Designer pointeur
+    - Inventaire
+        - Système de passing (male en rose, female en bleu)
+    - Progression
+        - Designer blocks de compétences
+        - Définir différences entre Identity, Expression et Sex
+        - Gérer compétences
+        - Poser formes
+        - Murs qui bloquent (rendra les petites formes nécessaires)
+    - Sauvegarde
+
+AUTRES
+    - Trouver un moyen de partager les fonctions
+        -> En fait c'est tout simple. On met juste SceneD'OrigineDeLaFonction.fonction()

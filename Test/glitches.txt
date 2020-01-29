@@ -1,0 +1,1 @@
+1) L'ouverture du menu fait glisser le perso si il etait en mouvement pendant l'ouverture du menu.
